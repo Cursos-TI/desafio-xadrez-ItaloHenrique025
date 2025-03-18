@@ -40,7 +40,7 @@ int main(){
     printf("Sua vez... \n");
     bispo(5);
     printf("Vez do adversario... \n");
-    
+
     for (int i = 0; i < 2; i++)
     {
         printf("O cavalo Moveu-se para cima \n");
