@@ -41,7 +41,7 @@ int main(){
             movimento++;
         }
         printf("Esquerda\n");
-    }
+    }//esse codigo movimenta o cavalo
     
     
 
