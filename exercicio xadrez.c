@@ -37,10 +37,10 @@ int main(){
 
         while (movimento <= 2)
         {
-            printf("Baixo\n");
+            printf("O cavalo Moveu-se para Baixo\n");
             movimento++;
         }
-        printf("Esquerda\n");
+        printf("O cavalo Moveu-se para Esquerda\n");
     }//esse codigo movimenta o cavalo
     
     
