@@ -26,6 +26,23 @@ int main(){
         b++;
 
     } while (b <= 5);
+
+    printf("Vez do adversario! \n");
+    
+    
+
+    for (int i = 0; i < 1; i++)
+    {
+        int movimento = 1;
+
+        while (movimento <= 2)
+        {
+            printf("Baixo\n");
+            movimento++;
+        }
+        printf("Esquerda\n");
+    }
+    
     
 
     return 0;
